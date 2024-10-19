@@ -1,4 +1,5 @@
 # block-yourself-from-analytics
+**[Block Yourself From Analytics](https://blockyouranalytics.com/)** is a Free Google Chrome Extension that can prevent your website visits, events, etc to counting in Google Analytics to get 100% accurate website traffic data.
 Ensure the accuracy of your analytics data when managing a website. Traffic statistics, behavior patterns, and conversion rates provide insights that help optimize the site's performance and user experience. However, your visits can skew this data, making it difficult to get a true picture of user interactions. This guide explains why and how to block yourself from analytics to preserve the integrity of your data.
 ## Understanding the Importance of Accurate Data
 Accurate analytics data is the cornerstone of effective website management. It influences decisions regarding content strategies, marketing campaigns, and website design. When site owners or developers frequently visit their sites for testing or updating content, they unintentionally inflate traffic data. This can lead to misleading analytics, such as:
