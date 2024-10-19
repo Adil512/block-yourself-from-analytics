@@ -21,3 +21,26 @@ There are several effective ways to exclude internal traffic from your analytics
 - Enter your IP address.
 # 2 Use Our Free Google Chrome Extension
 Our *[Chrome Extension Block Yourself From Analytics](https://chromewebstore.google.com/detail/block-yourself-from-analy/abbpfmfhdagohdmbefhalchcjbapannn)* is one of the best extensions that can easily stop your visits to count in Google Analytics and it is very easy to setup. All you have to do is install it in your Chrome Browser and add the URL.
+# Installation Guide:
+Block Yourself From Analytics is a powerful, lightweight Chrome extension that allows you to block your own visits from being tracked by Google Analytics. This ensures that your Google Analytics data remains clean and accurate by filtering out internal traffic.
+# Step-by-Step Installation Instructions
+## 1. Visit the Chrome Web Store
+Open Google Chrome and go to the Block Yourself From Analytics extension page in the Chrome Web Store: [Block Yourself From Analytics](https://chromewebstore.google.com/detail/block-yourself-from-analy/abbpfmfhdagohdmbefhalchcjbapannn)
+## 2. Add the Extension to Chrome
+- Once you are on the extension's page, click on the "Add to Chrome" button.
+- A pop-up will appear asking you to confirm the installation. Click "Add extension" to proceed.
+## 3. Confirm Installation
+After the installation, you will see the Block Yourself From Analytics icon appear in your Chrome toolbar (near the top-right corner of your browser).
+## 4. Open the Extension
+- Click on the Block Yourself From Analytics icon in the toolbar to open the extension.
+- You will be presented with a simple, easy-to-use interface where you can manage the websites you want to block from tracking your visits.
+## Add Websites to Block
+In the extension's Website List interface:
+- Enter the URL of the website you want to exclude from Google Analytics tracking (e.g., https://example.com).
+- Click "Add URL" to block the specified website.
+You can block multiple websites by adding each URL separately and if you want to block multiple URLs at once you can use the Import tab.
+## Run Diagnostics (Optional)
+- To ensure that the extension is properly blocking your visits from Google Analytics:
+- Navigate to the Diagnostics tab in the extension.
+- Click "Run Diagnostics" to verify that Google Analytics tracking is blocked for the current website.
+
